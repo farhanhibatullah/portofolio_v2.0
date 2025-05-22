@@ -22,7 +22,7 @@ const About: React.FC = () => (
         </div>
       </div>
       <div className="mt-8 flex justify-center gap-4">
-        <a href="#" className="px-5 py-2 bg-teal-500 hover:bg-teal-400 rounded font-semibold transition">Download CV</a>
+        <a href="/contact" className="px-5 py-2 bg-teal-500 hover:bg-teal-400 rounded font-semibold transition">Download CV</a>
         <a href="https://linkedin.com" target="_blank" rel="noopener noreferrer" className="px-5 py-2 border border-teal-400 hover:bg-teal-700 rounded font-semibold transition text-teal-300">LinkedIn</a>
       </div>
     </div>
